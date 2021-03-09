@@ -1,14 +1,2 @@
-#Tue Mar 02 15:52:17 IST 2021
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/datasources=
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.closeconn=true
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.directory_path=${project_loc\:NaaS_Regression}
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.file_filter=*.*
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.first_row.internal=1
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.last_row.internal=1
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.name=New Datasource
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.scanned_files_current_length=2
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.scanned_files_path_0=C\:\\Users\\ab14921\\NaaS_Regression\\.project
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.scanned_files_path_1=C\:\\Users\\ab14921\\NaaS_Regression\\datasources.properties
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.type=File
-.datasources/ds-module.wk\:///NaaS_E2E/NaaSRegression.tst\#0000000000/ds_-1355511310_1614277849590_476448966.use_all_rows=true
+#Tue Mar 09 20:08:23 IST 2021
 project.path=/NaaS_E2E
